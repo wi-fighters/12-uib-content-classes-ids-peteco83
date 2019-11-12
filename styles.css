@@ -1,0 +1,16 @@
+.list-item {
+    color: blue;
+}
+
+.heading {
+    color: red;
+}
+
+#background-violet {
+    background-color: violet;
+}
+
+#green-opacity {
+    background-color: rgba(0, 128, 0, 0.5);
+    font-weight: bold;
+}
